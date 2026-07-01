@@ -229,7 +229,7 @@ html_code = f"""
     <div class="hint" id="hint-text">🎵 点击小猫开始献唱</div>
 
     <!-- 音频（隐藏） -->
-    <audio id="audio-player" src="your_reality.mp3" preload="auto" loop></audio>
+    <audio id="audio-player" src="your_reality" preload="auto" loop></audio>
 </div>
 
 <script>
